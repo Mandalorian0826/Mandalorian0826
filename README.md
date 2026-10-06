@@ -8,7 +8,7 @@ I am an M.A. candidate in Political Science at **Dongguk University**. My resear
 
 I examine how electoral pressures shape incumbents' use of digital repression across political regimes. The project uses cross-national panel data and applies PanelMatch and two-way fixed effects models.
 
-[View project repository](https://github.com/Mandalorian0826/digital)
+[View project repository](https://github.com/Mandalorian0826/Digital-Repression)
 
 ### Opposition Structure and Repression
 
@@ -40,7 +40,7 @@ Peer-reviewed article with Jungmoo Woo, published in *Journal of Contemporary Po
 
 Cross-national research on electoral risk and digital repression. An earlier version was presented at the 2026 Summer Conference of the Korean Association of International Studies.
 
-[View project repository](https://github.com/Mandalorian0826/digital)
+[View project repository](https://github.com/Mandalorian0826/Digital-Repression)
 
 ---
 
