@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/202284565?v=4" width="140" align="right" alt="Jiyun Ko">
+<img src="assets/profile-intro.jpg" width="230" align="right" alt="Jiyun Ko">
 
 # Jiyun Ko
 
