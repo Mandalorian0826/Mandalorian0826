@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/202284565?v=4" width="140" align="right" alt="Jiyun Ko">
+
 # Jiyun Ko
 
 I am an M.A. candidate in Political Science at **Dongguk University**. My research focuses on **state repression and political violence**, with particular interests in political competition, regime survival, digital politics, and information control.
