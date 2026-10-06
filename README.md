@@ -2,7 +2,11 @@
 
 I am an M.A. candidate in Political Science at **Dongguk University**. My research focuses on **state repression and political violence**, with particular interests in political competition, regime survival, digital politics, and information control.
 
-## Research
+## Research Interests
+
+State Repression and Political Violence · Political Competition and Regime Survival · Digital Politics and Information Control
+
+## Current Research
 
 ### Electoral Threat and Digital Repression
 
@@ -10,9 +14,7 @@ I examine how electoral pressures shape incumbents' use of digital repression ac
 
 [View project repository](https://github.com/Mandalorian0826/Digital-Repression)
 
-### Opposition Structure and Repression
-
-My developing research examines how the structure of political opposition shapes incumbents' choices among repression strategies, including digital and physical forms of repression.
+I am also developing broader research on state repression and political dissent.
 
 ## Methods
 
@@ -22,13 +24,7 @@ My developing research examines how the structure of political opposition shapes
 - Spatial analysis and GIS
 - Game theory
 
-## Software
-
-- R
-- Python
-- LaTeX
-
-## Selected Research
+## Selected Publication
 
 ### Postmaterialist Orientation and Attitudes toward Immigration
 
@@ -36,12 +32,6 @@ Peer-reviewed article with Jungmoo Woo, published in *Journal of Contemporary Po
 
 [View publication repository](https://github.com/Mandalorian0826/Immigration_Attitude)
 
-### Electoral Threat and Digital Repression
+## Software
 
-Cross-national research on electoral risk and digital repression. An earlier version was presented at the 2026 Summer Conference of the Korean Association of International Studies.
-
-[View project repository](https://github.com/Mandalorian0826/Digital-Repression)
-
----
-
-Research interests: Comparative Politics · State Repression · Political Violence · Political Competition · Digital Politics
+R · Python · LaTeX
