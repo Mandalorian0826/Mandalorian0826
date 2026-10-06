@@ -2,10 +2,6 @@
 
 I am an M.A. candidate in Political Science at **Dongguk University**. My research focuses on **state repression and political violence**, with particular interests in political competition, regime survival, digital politics, and information control.
 
-<p align="center">
-  <img src="assets/profile-gallery.jpg" width="600" alt="Jiyun Ko profile gallery">
-</p>
-
 ## Research Interests
 
 State Repression and Political Violence · Political Competition and Regime Survival · Digital Politics and Information Control
